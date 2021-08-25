@@ -8,4 +8,4 @@
 ** X Small Screen: 50px
 
 
-Go to this linl to see the website: https://tanjilrahman321.github.io/nipro_psd_bt5/
+Go to this link to see the website: https://tanjilrahman321.github.io/nipro_psd_bt5/
