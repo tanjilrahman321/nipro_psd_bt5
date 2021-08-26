@@ -58,7 +58,12 @@
 .service_box{
 	margin-top: 30px;
 }
-
+.service_text {
+    margin-bottom: 20px;
+}
+.service_head {
+    margin-top: 0px;
+ }
 /*service end*/
 
 /*about start*/
@@ -212,7 +217,7 @@
 
 .bq{
 	top: 2%;
-    	left: 33%;
+    left: 33%;
 }
 
 .testi_innner p{
@@ -233,7 +238,6 @@
 	margin-top: -16px;
 	margin-bottom: 18px;
 	width: 180px;
-	margin-left: 55px;
 }
 .contact_title .title{
 	font-size: 26px;
